@@ -1,10 +1,10 @@
 {
   "host": "localhost",
   "port": 3030,
-  "mongodb": "mongodb://localhost:9080/buzzbox",
+  "mongodb": "mongodb://localhost:9080/sledgehammer",
   "public": "../public/",
   "auth": {
-    "local": {
+    "local": { /* TODO: to be removed and changed*/
       "secret": "+ljETxC+ytzCxEsH3vfKOSq4ePOyl9oTUjh8tL++y6kxM8jUXQMnioC/O+ntCtqCS48kEUPxBxuhTstljeiMYQ==",
       "loginEndpoint": "/login",
       "userEndpoint": "/users",
