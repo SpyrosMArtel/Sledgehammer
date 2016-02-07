@@ -4,7 +4,7 @@
   "mongodb": "mongodb://localhost:9080/sledgehammer",
   "public": "../public/",
   "auth": {
-    "local": { /* TODO: to be removed and changed*/
+    "local": {
       "secret": "+ljETxC+ytzCxEsH3vfKOSq4ePOyl9oTUjh8tL++y6kxM8jUXQMnioC/O+ntCtqCS48kEUPxBxuhTstljeiMYQ==",
       "loginEndpoint": "/login",
       "userEndpoint": "/users",
